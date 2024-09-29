@@ -1,7 +1,6 @@
 <a href="https://nekomaruh.github.io"><img src="https://res.cloudinary.com/doqebrksl/image/upload/v1727638577/portfolio/banner/github_banner_compressed_iesb1x.png"/></a>
 
 
-## Hi there 👋
 I'm a **Mobile Software Engineer** specialized in cross-platform mobile applications, leading projects with best practices and robust architecture
 patterns. Skilled in tools for long-term software development and maintenance over time.
 
