@@ -1,4 +1,12 @@
+<a href="https://nekomaruh.github.io"><img src="https://res.cloudinary.com/doqebrksl/image/upload/v1727638577/portfolio/banner/github_banner_compressed_iesb1x.png"/></a>
+
+
 ## Hi there 👋
+I'm a **Mobile Software Engineer** specialized in cross-platform mobile applications, leading projects with best practices and robust architecture
+patterns. Skilled in tools for long-term software development and maintenance over time.
+
+<a href="https://www.credly.com/badges/74ae7922-9b4b-4bd4-b9fd-edad7c67d0f9/public_url"><img src="https://img.shields.io/badge/Meta%20Android%20Developer-black?style=flat&logo=Meta&logoColor=blue&color=white"/></a>
+
 
 <!--
 **nekomaruh/nekomaruh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
