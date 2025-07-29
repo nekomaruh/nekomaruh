@@ -50,6 +50,15 @@ I don’t just build software —
 |:-------:|:-------:|:-----:|:------:|:----:|:-----:|:----:|:------:|:-------:|:-----:|:------:|:--------:|:---:|:--------:|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="60" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="60" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="60" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" height="60" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" height="60" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="60" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" height="60" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="35" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="60" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="35" /> |
 
+## 🚀 Self-Published Projects
+
+| Status | Icon | Name | Description |
+|:------:|:----:|:-----|:------------|
+| ![online](https://img.shields.io/static/v1?label=&message=online&color=44cc11&style=flat) | 🧾 | [**POS Ticket Editor**](https://pos-ticket-editor.netlify.app) | A mobile editor to create and print POS tickets |
+| ![alpha](https://img.shields.io/static/v1?label=&message=alpha&color=ffaa00&style=flat) | 📊 | **Trakki** | App to digitalize expenses with multiple devices in real time |
+
+
+
 
 <!--
 **nekomaruh/nekomaruh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
