@@ -2,29 +2,53 @@
 
 <a href="https://nekomaruh.github.io"><img src="https://res.cloudinary.com/doqebrksl/image/upload/v1727638577/portfolio/banner/github_banner_compressed_iesb1x.png"/></a>
 
+## 👋 Hi there!
 
 I'm a **Mobile Software Engineer** specialized in cross-platform mobile applications, leading projects with best practices and robust architecture
 patterns. Skilled in tools for long-term software development and maintenance over time.
 
+> I’m a passionate **craftsman of digital experiences** 🛠️📱. 
+
+## 🥭 My Passion (Sorry, I didn't find a Passion Fruit icon 😅)
+
+From the first time I saw an app come to life on a device, I knew this was more than a career — it was a calling. I specialize in **cross-platform mobile development**, creating apps that feel right, run smoothly, and grow gracefully.
+
+I don’t just build software —  
+- 🧘🏻 I **breathe architecture**, I **live for clean code**, and I **care deeply** about the user experience.  
+- 👨🏻‍💻 Each line I write carries intention, and every screen I design is a piece of a larger story.
+- 🧠 I’m obsessed with robust patterns and long-term sustainability — because great apps shouldn’t just work today, they should **thrive tomorrow**.
+
+---
+
+### 🍃 What fuels me?
+
+- ☕ A fresh cup of coffee to **refresh the mind**
+- 🐱 The quiet presence of cats to **restore inner peace**
+- 🎧 Deep focus sessions with music, flow, and zero distractions
+- ✨ That feeling when a complex problem suddenly clicks into place
+
+---
+
+### ❤️ Why I do what I do
+
+- Because I believe **technology should feel human**.  
+- Because turning ideas into real, interactive experiences is still *magical* to me.  
+- Because building software is not just a job — it’s an **act of care, of creation, of love**.
+
+---
+
+### ... So what are you waiting for?
+
+> Let’s build something meaningful — something that lasts.  
+>  
+> — Johan Esteban ✨
 
 
 👨🏻‍💻 Languages & Tools
 -
-<div class="wrap" style="text-align: center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" align="bottom" hspace="10" vspace="10" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" align="bottom" hspace="10" vspace="10" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" align="bottom" hspace="10" vspace="10" height="55"/>        
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" align="bottom" hspace="10" vspace="10" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" align="bottom" hspace="10" vspace="10" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" align="bottom" hspace="10" vspace="10" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" align="bottom" hspace="10" vspace="10" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" align="bottom" hspace="10" vspace="10" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" align="bottom" hspace="10" vspace="10" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" align="bottom" hspace="10" vspace="10" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" align="bottom" hspace="10" vspace="10" height="60"/>        
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" align="bottom" hspace="10" vspace="10" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" align="bottom" hspace="10" vspace="10" height="60"/>
-</div>
+| Android | Flutter | React | Kotlin | Java | Swift | Dart | Python |  SQL  | Git | Gradle | Firebase | AWS | Supabase |
+|:-------:|:-------:|:-----:|:------:|:----:|:-----:|:----:|:------:|:-----:|:---:|:------:|:--------:|:---:|:--------:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" height="60" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="60" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="60" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="60" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="60" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" height="60" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" height="60" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="60" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="60" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" height="60" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" height="60" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="60" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="60" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="60" /> |
 
 
 <!--
