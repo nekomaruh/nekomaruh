@@ -1,6 +1,6 @@
 <a href="https://www.credly.com/badges/74ae7922-9b4b-4bd4-b9fd-edad7c67d0f9/public_url"><img src="https://img.shields.io/badge/Meta%20Android%20Developer-black?style=flat&logo=Meta&logoColor=blue&color=white"/></a>
 
-<a href="https://nekomaruh.github.io"><img src="https://res.cloudinary.com/doqebrksl/image/upload/v1727638577/portfolio/banner/github_banner_compressed_iesb1x.png"/></a>
+<a href="https://nekomaruh.github.io"><img src="https://res.cloudinary.com/doqebrksl/image/upload/v1753791325/portfolio/banner/github_banner_29072025_o9wehc.png"/></a>
 
 ## 👋 Hi there!
 
