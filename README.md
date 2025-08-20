@@ -57,25 +57,11 @@ I don’t just build software —
 | ![online](https://img.shields.io/static/v1?label=&message=online&color=44cc11&style=flat) | 🧾 | [**POS Ticket Editor**](https://pos-ticket-editor.netlify.app) | A mobile editor to create and print POS tickets |
 | ![alpha](https://img.shields.io/static/v1?label=&message=alpha&color=ffaa00&style=flat) | 📊 | **Trakki** | App to digitalize expenses with multiple devices in real time |
 
-
-
+## 📦 Published Packages
+| Status | Version | Name | Description |
+|:------:|:-------:|:-----|:------------|
+| ![online](https://img.shields.io/static/v1?label=&message=online&color=44cc11&style=flat) | [![Pub Package](https://img.shields.io/pub/v/currency_picker_plus.svg)](https://pub.dev/packages/currency_picker_plus) | [**Currency Picker Plus**](https://pub.dev/packages/currency_picker_plus)  | Enhanced and customizable Flutter currency picker widget with extra features |
 
 <!--
 **nekomaruh/nekomaruh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" align="bottom" hspace="5" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" align="bottom" hspace="5" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" align="bottom" hspace="5" height="50"/>
-  
 -->
