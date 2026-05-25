@@ -56,6 +56,7 @@ I don’t just build software —
 |:------:|:----:|:-----|:------------|
 | ![online](https://img.shields.io/static/v1?label=&message=online&color=44cc11&style=flat) | 🧾 | [**POS Ticket Editor**](https://pos-ticket-editor.netlify.app) | A mobile editor to create and print POS tickets |
 | ![alpha](https://img.shields.io/static/v1?label=&message=alpha&color=ffaa00&style=flat) | 📊 | **Trakki** | App to digitalize expenses with multiple devices in real time |
+| ![alpha](https://img.shields.io/static/v1?label=&message=alpha&color=ffaa00&style=flat) | 📊 | **Guess The Flag** | Game: Which country belongs to this flag? |
 
 ## 📦 Published Packages
 | Status | Version | Name | Description |
